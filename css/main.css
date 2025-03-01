@@ -188,6 +188,7 @@ body {
   background-image: linear-gradient(to top, #39c6d6, #a7ffee);
   z-index: 1;
   opacity: 0.8;
+  /* display: block; */
 }
 .flower__white-circle {
   position: absolute;
